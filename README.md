@@ -1,10 +1,10 @@
-[![Banner](https://btc.io/images/bitcoin-btc.gif)](https://codecrafters.io/github-banner)
+[![Banner](https://btc.io/images/bitcoin-btc.gif)](https://btc.io/bitcoin-btc)
 
-## Bitcoin btc&lt;bitcoin-btc-trading&gt;
+## Bitcoin btc &lt;bitcoin-btc-trading&gt;
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
-> *What I cannot create, I do not understand — Richard Feynman.*
+> *Trade Cryptocurrency and Languages,Buy and SELL or Listing for Fiat Currency — Exchange.*
 
 It's a great way to learn.
 
